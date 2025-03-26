@@ -101,7 +101,13 @@ bash
 
 CopyEdit
 
-`/wanderlust-planner  ├── app.py                  # Main application file  ├── requirements.txt        # Project dependencies  ├── README.md               # Documentation  ├── .gitignore              # Git ignore file  ├── images/                 # Image assets for the README  └── LICENSE                 # License file`  
+/wanderlust-planner
+ ├── app.py                  # Main application file  
+ ├── requirements.txt        # Project dependencies  
+ ├── README.md               # Documentation  
+ ├── .gitignore              # Git ignore file  
+ ├── images/                 # Image assets for the README  
+ └── LICENSE                 # License file  
 
 ---
 
