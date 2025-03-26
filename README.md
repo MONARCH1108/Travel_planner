@@ -44,7 +44,7 @@
 
 1. **Clone the repository**
     
-`git clone https://github.com/your_username/wanderlust-planner.git cd wanderlust-planner`
+`git clone https://github.com/MONARCH1108/Travel_planner.git cd wanderlust-planner`
 
 2. **Install Dependencies**
     
