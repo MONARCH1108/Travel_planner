@@ -51,7 +51,7 @@
 
 4. **Run the Application**
 
-`streamlit run app.py`
+`streamlit run Travel_Planner.py`
 
 ---
 
