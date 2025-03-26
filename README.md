@@ -44,37 +44,17 @@
 
 1. **Clone the repository**
     
-
-bash
-
-CopyEdit
-
 `git clone https://github.com/your_username/wanderlust-planner.git cd wanderlust-planner`
 
 2. **Install Dependencies**
     
-
-bash
-
-CopyEdit
-
 `pip install -r requirements.txt`
 
 3. **Set up Google API Key**
     
-
-bash
-
-CopyEdit
-
 `export GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"`
 
 4. **Run the Application**
-    
-
-bash
-
-CopyEdit
 
 `streamlit run app.py`
 
