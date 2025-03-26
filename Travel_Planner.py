@@ -4,7 +4,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 import os
 
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyAvV_vAx1ZjvNXHNih2Ah1R0XxS1x5bwTU'
+os.environ['GOOGLE_API_KEY'] = 'your_API_Key'
 
 class TravelPlannerApp:
     def __init__(self):
