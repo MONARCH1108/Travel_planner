@@ -223,12 +223,6 @@ def main():
 
     # Footer
     st.markdown("---")
-    st.markdown("""
-    <div style="text-align: center; color: #4db8ff;">
-        <p>✨ Powered by AI | Travel Smarter, Not Harder ✈️</p>
-        <p>Made with ❤️ by Wanderlust Tech</p>
-    </div>
-    """, unsafe_allow_html=True)
 
 if __name__ == "__main__":
     main()
