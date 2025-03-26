@@ -2,8 +2,6 @@
 
 **AI-Powered Travel Companion**
 
-> _"Plan smarter, travel safer, and explore with confidence."_
-
 ---
 
 ## 🚀 **Features**
@@ -35,9 +33,6 @@
     
 - **Backend:** LangChain + Google GenAI API
     
-- **API Integration:** Google Maps API (for real-time travel info)
-    
-
 ---
 
 ## 📥 **Installation**
@@ -77,10 +72,6 @@
 
 ## 💻 **Folder Structure**
 
-bash
-
-CopyEdit
-
 /wanderlust-planner
  ├── app.py                  # Main application file  
  ├── requirements.txt        # Project dependencies  
@@ -114,15 +105,3 @@ CopyEdit
     
 - 🗺️ Travel itinerary generator with local attractions and hotel suggestions.
     
-
----
-
-## 🎯 **Contributing**
-
-Contributions are welcome!
-
-1. Fork the project.
-    
-2. Create a new branch.
-    
-3. Make your changes and submit a pull request.
