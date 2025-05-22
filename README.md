@@ -8,6 +8,9 @@
 - **Modern UI**: Dark-themed, responsive interface with smooth animations
 - **Multiple AI Models**: Leverages both Google's Gemini and Ollama's models for enhanced recommendations
 
+  ## Documentation :
+  https://medium.com/@abhayemani8/ai-travel-planner-technical-documentation-bfa4d08e4985
+
 ## 🚀 Installation
 
 ### Prerequisites
